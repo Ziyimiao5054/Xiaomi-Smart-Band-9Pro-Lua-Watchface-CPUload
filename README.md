@@ -1,4 +1,4 @@
-# SysInfo Watchface — 小米手环 9 Pro 系统监测表盘
+# CPUload Watchface — 小米手环 9 Pro CPU监测表盘
 
 Vela Lua 编写的适用于小米手环9Pro的表盘，可在表盘上实时查看 **CPU 占用率**（含实时折线图）。适用于搭载Xiaomi Vela OS的手环/手表设备。
 
